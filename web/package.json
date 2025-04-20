@@ -1,0 +1,26 @@
+{
+  "name": "vite-projec1",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint --ext .js,.vue src --fix"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "pinia": "^3.0.2",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.2",
+    "less": "^4.3.0",
+    "sass": "^1.86.3",
+    "stylus": "^0.64.0",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.0"
+  }
+}
