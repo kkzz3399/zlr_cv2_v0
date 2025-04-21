@@ -1,7 +1,7 @@
 <template>
   <div class="home-container">
     <header class="home-header">
-      <h1>图像处理系统</h1>
+      <h1>图像处理系统-zlr</h1>
       <div class="user-menu">
         <button class="user-icon" @click="toggleMenu">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
