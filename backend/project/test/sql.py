@@ -6,9 +6,9 @@ try:
     connection = mysql.connector.connect(
         host='localhost',  # 数据库主机地址
         port='3306',       # 端口号，默认3306
-        database='work',  # 数据库名称
+        database='cv2_project',  # 数据库名称
         user='root',           # 用户名
-        password='1234'        # 密码
+        password='541866'        # 密码
     )
     
     if connection.is_connected():
