@@ -43,7 +43,7 @@ def video_detect(video_path, output_path):
         cap.release()
         return
 
-    window_name = "1111"
+    window_name = "videoP"
     #cv2.namedWindow(window_name, cv2.WINDOW_NORMAL)
     next_id = 0
 
